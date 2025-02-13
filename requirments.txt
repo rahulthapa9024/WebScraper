@@ -1,0 +1,10 @@
+These are all the dependesies for the Scraper
+
+streamlit => For the frontEnd
+langchain => For AI calling
+langchain_ollama => Actual AI from LangChain
+selenium => For Web Scraping
+beautifulsoup3 => For parsing the scraped HTML
+lxml => For fast XML/HTML parsing
+html5lib => For well-formed HTML parsing
+python-dotenv => For managing environment variables

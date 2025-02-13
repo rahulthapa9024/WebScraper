@@ -1,0 +1,6 @@
+first Activate the virtual Environment using command   source ai/bin/activate
+make sure you have a ollam installed with matching verion on the file parse model 
+To download ollam go to download ollama for your suitable os 
+Then go to your terminal and write ollam to run ollama and now to pull an ollam model and download it and run it locally
+to pull the model use ollam pull llama{version} you can also use ollama on your system using ollama run llama{verion}
+And then use command streamlit run main.py
